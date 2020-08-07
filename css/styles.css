@@ -1,0 +1,63 @@
+
+th,td {
+	min-width: 100px;
+	text-align: center;
+}
+h1, h2, h3, h4, h5, h6{
+	font-size: 25px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: red;
+	text-shadow: -1px 3px 3px rgba(0, 0, 0, 0.68);
+	text-align: center;
+}
+p {
+	color: #eee;	
+	text-indent: 20px;
+	line-height: 1.5;
+	font-family: serif;
+	text-align: center;
+}
+body{
+	background-color: #111;
+	background-image: url("file:///home/aramb/Bureaublad/acoti.xyz/images/sinclair-rainbow.jpg");
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+li {
+	color: #666;
+	font: 16px, serif;
+	list-style-type: square;
+	text-align: center;
+}
+
+a{
+	color: #42a795;
+	text-align: center;
+}
+a:hover, a:focus{
+	color: #eee;
+}
+
+.monki{
+	text-align: center;
+}
+.monki:hover{
+	transform:  scaleX(-1);
+}
+
+.headline{
+	font-size: 22.5px;
+	font-weight: bold;
+	text-align: center;
+}
+
+table {
+	color:  red;
+	text-align: center;
+}
+.content {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+}
